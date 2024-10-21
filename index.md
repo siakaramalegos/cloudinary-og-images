@@ -20,8 +20,9 @@ revealOptions:
 
 ---
 
-TODO: Change!
-## [sia.codes/posts/webmentions-eleventy-talk/](https://sia.codes/posts/webmentions-eleventy-talk/)
+Slides:
+
+## [cloudinary-og.netlify.app](https://cloudinary-og.netlify.app/#/)
 
 ---
 
@@ -241,7 +242,7 @@ I wrap all this code in a function `socialImageUrl` that I use as a shortcode:
 <!-- .slide: data-background="./images/akshar-dave-1GRvY9WUu08-unsplash.jpg" -->
 <h1 class="title" style="text-align:left;">Thanks!</h1>
 
-<p style="color:#333;text-align:left;">Slides:<br> <a href="https://sia.codes/posts/webmentions-eleventy-talk/" class="link-secondary">sia.codes/posts/webmentions<br>-eleventy-talk/</a></p>
+<p style="color:#333;text-align:left;">Slides:<br> <a href="https://cloudinary-og.netlify.app/#/" class="link-secondary">cloudinary-og.netlify.app</a></p>
 <p style="color:#333;text-align:left;">Writing, resources, and more:<br> <a href="https://sia.codes/" class="link-secondary">sia.codes</a></p>
 
 ---

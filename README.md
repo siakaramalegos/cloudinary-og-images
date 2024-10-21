@@ -4,7 +4,7 @@ Did you ever notice those social media share images that automatically pop up fo
 
 ## Slides and Controls
 
-The slides are deployed at [TODO].
+The slides are deployed at https://cloudinary-og.netlify.app/#/.
 
 To advance the slides, use `n` for next and `p` for previous. The right arrow jumps to the next section (and left for previous section). Up and down to advance through slides within a section.
 
