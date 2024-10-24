@@ -124,7 +124,7 @@ The dimensions that worked for me were 1280 x 640.<!-- .element: style="text-ali
 ## Positioning with Gravity: Preventing overlapping text
 
 - **Title**: Use `south_west` with a y-offset from the bottom
-- **Subitle**: Use `north_west` with a y-offset from the top
+- **Subtitle**: Use `north_west` with a y-offset from the top
 
 ---
 
@@ -227,7 +227,7 @@ I wrap all this code in a function `socialImageUrl` that I use as a shortcode:
 ```html
 <!-- In my base layout file -->
 <meta property="og:description" content="{{ renderDescription }}" />
-<meta property="og:url" content="https://sia.codes/" />
+<meta property="og:url" content="https://sia.codes{{ page.url }}" />
 <meta property="og:title" content="{{ renderTitle }}" />
 <meta property="og:image" content="{% socialImage renderTitle, renderDescription %}">
 <meta property="og:image:type" content="image/png">
